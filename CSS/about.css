@@ -1,0 +1,39 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url(../IMAGES/c3628b3f-d96e-4cb4-8b32-3c72d1e2a73d\ \(1\).jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-bottom: 70%;
+}
+
+.main ul{
+    display: inline-flex;
+    list-style: none;
+    color: antiquewhite;
+}
+
+.main{
+    background-color: blue;
+    text-align: center;
+}
+
+.main ul li{
+    width: 120px;
+    margin: 15px;
+    padding: 15px;
+
+}
+.main ul li a{
+    text-decoration: none;
+    color: white;
+}
+.active, .main ul li:hover{
+    background: linear-gradient(to right, pink, yellow );
+    border-radius: 4px;
+}

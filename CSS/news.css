@@ -1,0 +1,95 @@
+.main{
+    border-collapse: collapse;
+    text-align: center;
+    margin-left: 50px;
+}
+
+.main1{
+    display: flex;
+    margin: 50px;
+}
+
+.main2{
+    display: flex;
+    margin: 50px;
+}
+.main3{
+    display: flex;
+    margin: 50px;
+}
+body{
+    box-shadow: inset;
+    margin: 60px;
+}
+.nest{
+    display: flex;
+    gap: 4px;
+    width: 100%;
+}
+.threesection{
+    width: 100px;
+    margin-left: 40px;
+}
+
+.threeimg{
+    height: 50px;
+    width: 50px;
+}
+.im1{
+    width: 70px;
+    height: 40px;
+    border-radius: 50%;
+    margin-right: 10px;
+    float: left;
+}
+.im2{
+    width: 60px;
+    height: 40px;
+    border-radius: 50%;
+    margin-right: 10px;
+    float: right;  
+}
+
+.im3{
+    width: 40px;
+    height: 50px;
+    border-radius: 50%;
+    margin-right: 10px;
+    float: left; 
+}
+
+.im4{
+    width: 60px;
+    height: 40px;
+    border-radius: 50%;
+    margin-right: 10px;
+    float: left;
+}
+.im5{
+    width: 40px;
+    height: 50px;
+    border-radius: 50%;
+    margin-right: 10px;
+    float: left; 
+}
+.im6{
+    width: 60px;
+    height: 40px;
+    border-radius: 50%;
+    margin-right: 10px;
+    float: left; 
+}
+.im7{
+    width: 60px;
+    height: 40px;
+    border-radius: 50%;
+    margin-right: 10px;
+    float: left; 
+}
+.im8{
+    width: 60px;
+    height: 40px;
+    border-radius: 50%;
+    margin-right: 10px;
+    float: left; 
+}

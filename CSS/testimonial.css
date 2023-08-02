@@ -1,0 +1,37 @@
+.dflex{
+    display: flex;
+}
+
+.test1, .test2 {
+    box-shadow: 1px 2px 3px 4px whitesmoke ;
+    margin: 20px;
+    border-radius: 20px;
+    text-align: center;
+    background: linear-gradient(to left,  yellow,pink );
+    padding-left: 15% ;
+    padding-right: 15% ;
+    
+}
+
+img{
+    border: 1px solid #ccc;
+    border-radius: 100px;
+}
+
+body{
+    /* background-color: black; */
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+ul{
+    list-style-type: square;
+    list-style-position: inside;
+    list-style-image: url(../IMAGES/design-1024x1024.jpeg);
+    background-size: 16px;
+}
+.flex{
+    display: flex;
+}
+

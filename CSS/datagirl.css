@@ -1,0 +1,38 @@
+.dflex{
+    display: flex; 
+    justify-content: center;
+    margin-left: 20%;
+    width: 80%;
+}
+
+.mflex{
+    margin: 20px;
+    width: 40%;
+}
+
+button{
+    margin-left: 30%;
+    background-color:#e4046e;
+    color: white;
+    padding: 20px 50px;
+    border: none;
+    border-radius: 5%;
+}
+
+.ddflex{
+    display: flex;
+    justify-content: center;
+    margin-left: 10%;
+    margin-top: 5%;
+    width: 80%;
+}
+
+.imgdiv{
+    margin-left: 10%;
+
+}
+
+.mmflex{
+    margin-right: 10%;
+
+}

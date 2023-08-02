@@ -1,0 +1,59 @@
+.flexc{
+    display: flex;
+    justify-content: center;
+}
+body{
+    /* background-color: black; */
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: linear-gradient(green,red white );
+}
+
+.divs{
+    background-color: antiquewhite;
+    margin: 30px;
+    padding: 40px;
+    border: 5px solid red; 
+    border-top: dotted green;
+    border-radius: 40px;
+}
+.all{
+    border: 3px black solid;
+    padding: 5px;
+}
+.red{
+    border-bottom: 3px red solid;
+    padding: 5px;
+}
+.round{
+    border: 4px solid grey;
+    border-radius: 100px;
+    padding: 5px;
+
+}
+.blue{
+    border-left: 10px solid blue;
+    padding: 5px;
+}
+p{
+    font-size: 15px;
+    font-family: fantasy;
+    font-weight: 100px;
+    font-style: italic;
+    text-transform: capitalize;
+    letter-spacing: 5px;
+    text-indent: 10px;
+    line-height: 5.5;
+    text-shadow: 2px 2px green;
+}
+
+.maindiv{
+    border: 5px solid black;
+    border-radius: 50px;
+    text-align: center;
+
+}
+.img{
+    border-radius: 50px;
+    
+}
